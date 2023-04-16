@@ -1,8 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h1>React Portifolio</h1>
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/83931417/232262964-9e381c2e-5d56-43aa-8d2b-65210f7fa30e.png" alt="Captura de tela 1">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/83931417/232262966-2083351b-8c21-401e-909d-ae6e965d8b97.png" alt="Captura de tela 2">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/83931417/232262977-86ccc4bb-980a-4ef8-837b-0927b3a0ef49.png" alt="Captura de tela 3">
+    </td>
+  </tr>
+</table>
 
-First, run the development server:
+<p class="flex items-center justify-center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+ <div style = "display: inline_block"> 
+  <img align = "center" alt = "Mat-React" height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg />
+  <img align = "center" alt = "Mat-NextJs" height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg />
+  <img align = "center" alt = "Mat-Tailwind" height = "50" width = "70" src= https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg />
+</div>
+<br>
 
 ```bash
 npm run dev
@@ -11,28 +32,6 @@ yarn dev
 # or
 pnpm dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
